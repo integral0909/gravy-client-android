@@ -23,7 +23,7 @@ import app.client.munchbear.munchbearclient.model.Address;
 public class GoogleMapHelper {
 
     private static final String GOOGLE_STATIC_MAPS_BASE_URL = "https://maps.googleapis.com/maps/api/staticmap?";
-    private static final String GOOGLE_STATIC_MAPS_KEY = "AIzaSyBkTX0hi8ORcfQMhgY6toC2Jm9-4jzcmJg";
+    private static final String GOOGLE_STATIC_MAPS_KEY = "";
     private static final int GOOGLE_STATIC_MAPS_ZOOM = 17;
     private static final int GOOGLE_STATIC_MAPS_HEIGHT_BIG = 220;
 
